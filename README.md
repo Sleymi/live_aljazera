@@ -2,8 +2,9 @@
 Get the live of aljazeera channel
 
 
-Requirements: python3 and curl
-I tested the code only on linux
+Requirements: python3 and curl.
+
+I tested the code only on linux.
 
 Usage
 
